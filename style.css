@@ -1,0 +1,20 @@
+html{
+  background-color:tan;         /*background color*/
+    color:blue;
+}
+
+.toggleTitle{                   /*centers title*/
+  text-align: center;
+}
+
+
+
+#classProjects:hover{
+  cursor:  pointer;
+  color: #FF5733 
+}
+
+#classMaterial:hover{
+  cursor:  pointer;
+  color: #FF5733 
+}
